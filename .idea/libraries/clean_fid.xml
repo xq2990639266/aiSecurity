@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="clean-fid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Data preprocessing/clean-fid.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
